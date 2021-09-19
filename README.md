@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khoi (Kevin) Hoang. You can check out my profile at https://www.linkedin.com/in/khoi-hd/
+- 👋 Hi, I’m Khoi (Kevin) Hoang. You can check out my profile at https://www.linkedin.com/in/khoi-hd/.
 - 👀 I’m interested in Distributed Systems and Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
